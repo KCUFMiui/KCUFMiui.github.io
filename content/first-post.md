@@ -1,9 +1,10 @@
-title: First Post on My Sweet New Blog
-date: Dec-03-2020
+title: XIAOMI EU
+date: Nov-25-2020
 author: Anand Shekhawat
 
-# I am On My Way To Internet Fame and Fortune!
+# 20.11.25
 
-This is my first post on my new blog. While not super informative it
-should convey my sense of excitement and eagerness to engage with you,
-the reader!
+Changelog:
+- ye
+- ye bhi
+- or ye bhi
