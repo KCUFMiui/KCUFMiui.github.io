@@ -3,7 +3,7 @@
 
 AUTHOR = 'Anand Shekhawat'
 SITENAME = 'Whyred Miui Ports'
-SITEURL = ''
+SITEURL = 'https://whyredmiuiports.github.io'
 
 PATH = 'content'
 
@@ -33,8 +33,15 @@ DEFAULT_PAGINATION = 1
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
+DELETE_OUTPUT_DIRECTORY = True
+IGNORE_FILES = ['__pycache__']
+
+USE_FOLDER_AS_CATEGORY = False
+DEFAULT_CATEGORY = 'Home'
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
 MENUITEMS = (
-  ('Home','/'),
   ('EU','/eu/'),
   ('MMX','/mmx/'),
 )
