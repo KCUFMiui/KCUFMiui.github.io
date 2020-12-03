@@ -1,4 +1,4 @@
-title: About
+title: Home
 date: Dec-03-2020
 
 ![So Schmexy][miui_photo]
