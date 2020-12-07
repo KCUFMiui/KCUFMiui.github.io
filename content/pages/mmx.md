@@ -1,9 +1,0 @@
-title: 20.12.2
-date: 2020-12-2
-category: mmx
-save_as: mmx.html
-
-#MMX_2.2.0_whyred_20.12.2_v12-10-20201204061442.zip
-
-**Download Links:**
-[MMX_2.2.0_whyred_20.12.2_v12-10-20201204061442.zip](https://sourceforge.net/projects/whyred-miui/files/MMX/BETA/MMX_2.2.0_whyred_20.12.2_v12-10-20201204061442.zip/download)

@@ -1,9 +1,0 @@
-title: 20.12.2
-date: 2020-12-2
-category: eu
-save_as: eu.html
-
-#xiaomi.eu_multi_HMNote5Pro_20.12.2_v12-10-20201204024311.zip
-
-**Download Links:**
-[xiaomi.eu_multi_HMNote5Pro_20.12.2_v12-10-20201204024311.zip](https://sourceforge.net/projects/whyred-miui/files/EU/BETA/xiaomi.eu_multi_HMNote5Pro_20.12.2_v12-10-20201204024311.zip/download)

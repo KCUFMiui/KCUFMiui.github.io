@@ -8,8 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-GITHUB_PAGES_BRANCH=main
-
+GITHUB_PAGES_BRANCH ?= master
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
